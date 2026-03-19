@@ -32,12 +32,8 @@
 
 ## 🎓 Education
 
-**Master in Web Intelligence & Data Science (WISD)**  
+**Master (M1) in Web Intelligence & Data Science (WISD)**  
 *Sidi Mohammed Ben Abdellah University, Fez* | 2025 – Present
-
-**Bachelor's Degree in Computer Science**  
-*[University Name]* | [Year] – [Year]
-
 ---
 
 ## 📈 GitHub Analytics
