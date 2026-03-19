@@ -79,10 +79,10 @@
         <img src="https://skillicons.dev/icons?i=sklearn" width="50"/>
         <br>Scikit-Learn
       </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=pandas" width="50"/>
-        <br>Pandas
-      </td>
+ <td align="center" width="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <br>Pandas
+</td>
     </tr>
     <tr>
       <td align="center" width="150">
