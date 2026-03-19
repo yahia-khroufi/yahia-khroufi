@@ -1,9 +1,5 @@
 <!-- PROFILE HEADER WITH ANIMATED GRADIENT -->
 <div align="center">  
-  <!-- ANIMATED TITLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=👨‍💻+Yahia+Khroufi;Data+Scientist;ML+Engineer" alt="Typing SVG" />
-  
-  <!-- QUICK INFO CARDS -->
   <p>
     <img src="https://img.shields.io/badge/Status-Master's_Student-58A6FF?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Focus-ML%20%7C%20DL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
