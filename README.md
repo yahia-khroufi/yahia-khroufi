@@ -109,6 +109,7 @@
 <div align="center">
 
 ---
+
 ## 🎓 **EDUCATION**
 
 <div align="center">
