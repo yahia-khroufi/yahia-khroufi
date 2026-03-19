@@ -139,7 +139,7 @@
 <div align="center">
   <h3>📈 Performance Metrics</h3>
   
-  <!-- MODERN STATS CARDS -->
+  <!-- MODERN STATS CARDS - Ces images sont naturellement non cliquables -->
   <table>
     <tr>
       <td width="33%" align="center">
@@ -169,12 +169,14 @@
       <td width="50%">
         <h3 align="center">🤖 DarijaTranslator</h3>
         <div align="center">
-          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DarijaTranslator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          <!-- SOLUTION 1: Utiliser un div avec un style pointer-events: none -->
+          <div style="pointer-events: none; cursor: default;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DarijaTranslator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          </div>
           <p>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
           </p>
           <p><small>English-to-Darija translation system with modern chat interface</small></p>
@@ -183,8 +185,10 @@
       <td width="50%">
         <h3 align="center">🔄 XmlJsonTransformer</h3>
         <div align="center">
-          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=XmlJsonTransformer&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          <!-- SOLUTION 1: Utiliser un div avec un style pointer-events: none -->
+          <div style="pointer-events: none; cursor: default;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=XmlJsonTransformer&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          </div>
           <p>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -198,8 +202,10 @@
       <td width="50%">
         <h3 align="center">📝 ExamGenerator</h3>
         <div align="center">
-          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=ExamGenerator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          <!-- SOLUTION 1: Utiliser un div avec un style pointer-events: none -->
+          <div style="pointer-events: none; cursor: default;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=ExamGenerator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          </div>
           <p>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
           </p>
@@ -209,8 +215,10 @@
       <td width="50%">
         <h3 align="center">📊 DataFactorAnalysis</h3>
         <div align="center">
-          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DataFactorAnalysis&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          <!-- SOLUTION 1: Utiliser un div avec un style pointer-events: none -->
+          <div style="pointer-events: none; cursor: default;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DataFactorAnalysis&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+          </div>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
             <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
@@ -241,8 +249,8 @@
       <td>
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
       </td>
-     <td>
-  <strong></strong> <code>yahiakhroufi</code>
+      <td>
+        <strong></strong> <code>yahiakhroufi</code>
       </td>
       <td width="20"></td>
       <td>
