@@ -169,21 +169,28 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 DarijaTranslator</h3>
-        <div align="center">
-          <!-- SOLUTION 1: Utiliser un div avec un style pointer-events: none -->
-          <div style="pointer-events: none; cursor: default;">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DarijaTranslator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
-          </div>
-          <p>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-          </p>
-          <p><small>English-to-Darija translation system with modern chat interface</small></p>
-        </div>
-      </td>
+  <h3 style="text-align:center;">🤖 DarijaTranslator</h3>
+  <div style="text-align:center;">
+    <!-- Image du repository (statistique épinglée) -->
+    <div style="pointer-events: none; cursor: default;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DarijaTranslator&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="DarijaTranslator Repo"/>
+    </div>
+
+    <!-- Badges des technologies -->
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    </p>
+
+    <!-- Description courte -->
+    <p><small>English-to-Darija translation system with modern chat interface</small></p>
+
+    <!-- Lien vers GitHub -->
+    <p><a href="https://github.com/yahia-khroufi/DarijaTranslator" target="_blank">View on GitHub</a></p>
+  </div>
+</td>
       <td width="50%">
         <h3 align="center">🔄 XmlJsonTransformer</h3>
         <div align="center">
