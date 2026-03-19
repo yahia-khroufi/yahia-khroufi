@@ -160,14 +160,6 @@
   <!-- 3D CONTRIBUTION GRAPH -->
   <h3>📅 Contribution Timeline</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-  
-  <!-- TROPHY SHOWCASE -->
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=yahiakhroufi&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="100%"/>
-  
-  <!-- METRICS WIDGET -->
-  <h3>📊 Detailed Analytics</h3>
-  <img src="https://metrics.lecoq.io/yahiakhroufi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FCasablanca" width="100%"/>
 </div>
 
 ---
