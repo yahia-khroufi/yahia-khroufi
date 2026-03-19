@@ -244,15 +244,16 @@
       <td>
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
       </td>
-      <td>
-        <strong>Discord:</strong> yahiakhroufi#1234
+     <td>
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" style="vertical-align: middle; margin-right: 5px;">
+  <strong>Discord:</strong> <code>yahiakhroufi</code>
       </td>
       <td width="20"></td>
       <td>
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
       </td>
       <td>
-        <strong>WhatsApp:</strong> +212 XXX-XXXXXX
+        <strong>WhatsApp:</strong> <code>+212642047321</code>
       </td>
     </tr>
   </table>
