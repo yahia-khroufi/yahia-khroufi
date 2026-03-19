@@ -111,24 +111,6 @@
 
 <!-- SKILL PROGRESS BARS -->
 <div align="center">
-  <h3>⚡ Proficiency Levels</h3>
-  
-  <table width="100%">
-    <tr>
-      <td width="33%">Machine Learning</td>
-      <td width="67%"><progress value="90" max="100" style="width:100%; height:15px; border-radius:10px;"></progress> 90%</td>
-    </tr>
-    <tr>
-      <td>Deep Learning</td>
-      <td><progress value="85" max="100" style="width:100%; height:15px; border-radius:10px;"></progress> 85%</td>
-    </tr>
-    <tr>
-      <td>Data Analysis</td>
-      <td><progress value="88" max="100" style="width:100%; height:15px; border-radius:10px;"></progress> 88%</td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🎓 **EDUCATION**
