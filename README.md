@@ -1,7 +1,5 @@
 <!-- PROFILE HEADER WITH ANIMATED GRADIENT -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
+<div align="center">  
   <!-- ANIMATED TITLE -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=👨‍💻+Yahia+Khroufi;Data+Scientist;ML+Engineer" alt="Typing SVG" />
   
@@ -206,6 +204,7 @@
           <p>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
           </p>
           <p><small>English-to-Darija translation system with modern chat interface</small></p>
@@ -289,14 +288,3 @@
   </table>
   
 </div>
-
----
-
-## 💡 **WEEKLY DEVELOPMENT BREAKDOWN**
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░   58.3%
-Java         5 hrs 15 mins   █████░░░░░░░░░░░░░░░░   24.5%
-JavaScript   2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   10.1%
-HTML/CSS     1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░   7.1%
