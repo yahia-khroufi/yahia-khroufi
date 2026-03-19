@@ -36,17 +36,25 @@
 *Sidi Mohammed Ben Abdellah University, Fez* | 2025 – Present
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiakhroufi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E96&currStreakNum=C9D1D9&sideNums=C9D1D9" width="96%"/>
+  
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=yahiakhroufi&theme=radical&no-frame=true&row=1&column=6" width="96%"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
