@@ -1,74 +1,71 @@
-# Yahia Khroufi
+# 👨‍💻 Yahia Khroufi
 
-🎓 **Master Web Intelligence & Science des Données (WISD)** – Université Sidi Mohammed Ben Abdellah, Fès  
-💻 Passionné par **Data Science, Machine Learning & Deep Learning**  
-🌍 Basé à Fès, Maroc | 📫 yahiakhroufi@gmail.com  
-
----
-
-## 🔧 Compétences Techniques
-
-**Langages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-**Frameworks & Librairies**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-
-**Outils & Technologies**  
-Git | GitHub | Jupyter Notebook | VSCode | Docker | Linux | REST APIs  
+🎓 **Master's Student in Web Intelligence & Data Science (WISD)**  
+🏛️ *Sidi Mohammed Ben Abdellah University, Fez*  
+🔬 Passionate about **Data Science, Machine Learning & Deep Learning**  
+📍 Fez, Morocco | ✉️ [yahiakhroufi@gmail.com](mailto:yahiakhroufi@gmail.com)
 
 ---
 
-## 🚀 Projets Clés
+## 🛠️ Technical Stack
 
-### 1️⃣ Visual Analytics Dashboard
-Dashboard interactif pour visualiser des datasets complexes avec **Plotly & Dash**  
-![Dashboard Preview](https://via.placeholder.com/400x150.png?text=Dashboard+GIF)  
-[Repo GitHub](https://github.com/yahiakhroufi/visual-analytics)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 2️⃣ Machine Learning NLP
-Projet de **traitement automatique du langage naturel** avec classification de texte  
-![NLP Preview](https://via.placeholder.com/400x150.png?text=NLP+GIF)  
-[Repo GitHub](https://github.com/yahiakhroufi/nlp-project)
+### ML/DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 3️⃣ Deep Learning Image Recognition
-Reconnaissance d’images avec **TensorFlow et PyTorch**  
-![Deep Learning Preview](https://via.placeholder.com/400x150.png?text=Deep+Learning+GIF)  
-[Repo GitHub](https://github.com/yahiakhroufi/deep-learning)
-
-### 4️⃣ Data Mining & Predictive Models
-Analyse et modélisation prédictive avec **Python et Scikit-Learn**  
-![Data Mining Preview](https://via.placeholder.com/400x150.png?text=Data+Mining+GIF)  
-[Repo GitHub](https://github.com/yahiakhroufi/data-mining)
-
----
-
-## 📚 Formation
-
-**Master WISD** – Université Sidi Mohammed Ben Abdellah, Fès (2025 – Présent)  
-**Licence Informatique** – (Indique ton université précédente)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🌐 Contact & Réseaux
+## 🎓 Education
 
-- 📧 Email : yahiakhroufi@gmail.com  
-- 🔗 LinkedIn : [https://www.linkedin.com/in/yahia-khroufi](https://www.linkedin.com/in/yahia-khroufi)  
-- 🌐 Portfolio / GitHub Pages : (ajoute ton lien si disponible)
+**Master in Web Intelligence & Data Science (WISD)**  
+*Sidi Mohammed Ben Abdellah University, Fez* | 2025 – Present
 
----
-
-## 📊 Statistiques GitHub
-
-![Yahia Khroufi GitHub stats](https://github-readme-stats.vercel.app/api?username=yahiakhroufi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiakhroufi&layout=compact)
+**Bachelor's Degree in Computer Science**  
+*[University Name]* | [Year] – [Year]
 
 ---
 
-> “Continuous learning and curiosity are the keys to mastering Data Science and AI.”
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiakhroufi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yahiakhroufi.github.io)
+
+---
+
+<div align="center">
+  
+  ### 📌 "Continuous learning and curiosity are the keys to mastering Data Science and AI."
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yahiakhroufi&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Last Updated](https://img.shields.io/github/last-commit/yahiakhroufi/yahiakhroufi?style=flat-square&label=Last%20Updated&color=success)
+  
+</div>
