@@ -107,6 +107,7 @@
 
 <!-- SKILL PROGRESS BARS -->
 <div align="center">
+
 ---
 
 ## 🎓 **EDUCATION**
@@ -168,9 +169,8 @@
       <td width="50%">
         <h3 align="center">🤖 DarijaTranslator</h3>
         <div align="center">
-          <a href="https://github.com/yahiakhroufi/DarijaTranslator">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DarijaTranslator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
-          </a>
+          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DarijaTranslator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
           <p>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -183,9 +183,8 @@
       <td width="50%">
         <h3 align="center">🔄 XmlJsonTransformer</h3>
         <div align="center">
-          <a href="https://github.com/yahiakhroufi/XmlJsonTransformer">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=XmlJsonTransformer&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
-          </a>
+          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=XmlJsonTransformer&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
           <p>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -199,9 +198,8 @@
       <td width="50%">
         <h3 align="center">📝 ExamGenerator</h3>
         <div align="center">
-          <a href="https://github.com/yahiakhroufi/ExamGenerator">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=ExamGenerator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
-          </a>
+          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=ExamGenerator&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
           <p>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
           </p>
@@ -211,9 +209,8 @@
       <td width="50%">
         <h3 align="center">📊 DataFactorAnalysis</h3>
         <div align="center">
-          <a href="https://github.com/yahiakhroufi/DataFactorAnalysis">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DataFactorAnalysis&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
-          </a>
+          <!-- Image non cliquable : on retire le lien <a> autour de l'image -->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yahiakhroufi&repo=DataFactorAnalysis&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
             <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
@@ -245,7 +242,6 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
       </td>
      <td>
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" style="vertical-align: middle; margin-right: 5px;">
   <strong></strong> <code>yahiakhroufi</code>
       </td>
       <td width="20"></td>
