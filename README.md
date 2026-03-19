@@ -61,12 +61,10 @@
         <img src="https://skillicons.dev/icons?i=js" width="50"/>
         <br>JavaScript
       </td>
-
-     <td align="center" width="150">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="35">
-  <br>
-  <sub>SQL</sub>
-</td>
+   <td align="center" width="150">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="35"/>
+        <br>SQL
+      </td>
     </tr>
     <tr>
       <td align="center" width="150">
