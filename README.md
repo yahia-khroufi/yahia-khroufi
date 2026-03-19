@@ -109,29 +109,30 @@
 <div align="center">
 
 ---
-
 ## 🎓 **EDUCATION**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/2025--Present-Master_WISD-58A6FF?style=for-the-badge&logo=google-scholar&logoColor=white">
+  <img src="https://img.shields.io/badge/2025--Present-Master_WISD-2F4F4F?style=for-the-badge&logo=google-scholar&logoColor=white">
 </div>
+
+<br>
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://img.icons8.com/color/96/000000/university--v1.png" width="80">
+    <td width="100" align="center">
+      <img src="https://img.icons8.com/color/96/000000/university--v1.png" width="70">
     </td>
     <td>
       <h3>🎓 Master in Web Intelligence & Data Science (WISD)</h3>
-      <p><strong>Sidi Mohammed Ben Abdellah University</strong> | Fez, Morocco</p>
+      <p><strong>Sidi Mohamed Ben Abdellah University</strong> | Fez, Morocco</p>
       <p>
         <img src="https://img.shields.io/badge/GPA-3.8%2F4.0-success?style=flat-square">
         <img src="https://img.shields.io/badge/Thesis-Deep%20Learning-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Ongoing-2026-important?style=flat-square">
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 **ADVANCED ANALYTICS DASHBOARD**
