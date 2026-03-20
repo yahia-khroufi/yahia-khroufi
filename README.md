@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Bonjour,+je+suis+Yahia+Khroufi;Chercheur+en+Data+Science+%26+IA;%C3%89tudiant+en+Master+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Researcher;Master+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
 </p>
 
 ---
 
-## 👨‍🔬 **À PROPOS DE MOI & AXES DE RECHERCHE**
+## 👨‍🔬 **ABOUT ME & RESEARCH INTERESTS**
 
 <div align="center">
   <table>
     <tr>
       <td width="70%" valign="top">
         <p>
-          Étudiant en <b>Master Web Intelligence & Data Science (WISD)</b>, passionné par l’IA et le Machine Learning. 
-          Mon objectif est de transformer la recherche académique en solutions concrètes et innovantes.
+          Master's student in <b>Web Intelligence & Data Science (WISD)</b>, passionate about Artificial Intelligence and Machine Learning. 
+          My goal is to bridge the gap between academic research and real-world applications by building intelligent and impactful solutions.
         </p>
         <p>
-          Ouvert aux collaborations et opportunités professionnelles.
+          Open to research collaborations and professional opportunities.
         </p>
       </td>
       <td width="30%" align="center">
         <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
         <strong>Master WISD</strong><br>
-        <small>USMBA - Fès</small>
+        <small>USMBA - Fez</small>
       </td>
     </tr>
   </table>
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 **COMPÉTENCES TECHNIQUES**
+## 🚀 **TECHNICAL SKILLS**
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📊 **STATISTIQUES GITHUB**
+## 📊 **GITHUB STATS**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true" width="80%" />
