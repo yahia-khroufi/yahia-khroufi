@@ -1,18 +1,7 @@
-# <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=Yahia%20Khroufi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Master%20WISD&descSize=25&descAlignY=60" " width="100%" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Bonjour,+je+suis+Yahia+Khroufi;Chercheur+en+Data+Science+%26+IA;%C3%89tudiant+en+Master+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
 </p>
 ----
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Bonjour%2C%20je%20suis%20Yahia%20Khroufi;%20Chercheur%20en%20Data%20Science%20%26%20IA;Étudiant%20en%20Master%20WISD&font=Fira%20Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation">
-</div>
-
-<br>
----
-
 ## 👨‍🔬 **À PROPOS DE MOI & AXES DE RECHERCHE**
 
 <div align="center">
