@@ -112,14 +112,14 @@
         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
       </td>
       <td>
-        <strong></strong> <code>yahiakhroufi</code>
+        <strong></strong><a href="https://www.instagram.com/yahia_khroufi/">yahiakhroufi</a>
       </td>
       <td width="20"></td>
       <td>
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
       </td>
       <td>
-        <strong></strong><a href="https://www.instagram.com/yahia_khroufi/">yahiakhroufi</a>
+        <strong></strong> <code>0642047321</code>
       </td>
     </tr>
   </table>
