@@ -106,8 +106,24 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiakhroufi.github.io)
 
 <br><br>
+  <table>
+    <tr>
+      <td>
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
+      </td>
+      <td>
+        <strong></strong> <code>yahiakhroufi</code>
+      </td>
+      <td width="20"></td>
+      <td>
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
+      </td>
+      <td>
+        <strong></strong> <code>+212642047321</code>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<b>Username:</b> <code>yahiakhroufi</code>  
-<b>WhatsApp:</b> <code>+212642047321</code>
 
 </div>
