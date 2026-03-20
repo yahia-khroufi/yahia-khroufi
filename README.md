@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=Yahia%20Khroufi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Master%20WISD&descSize=25&descAlignY=60" alt="Yahia Khroufi Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=Yahia%20Khroufi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Master%20WISD&descSize=25&descAlignY=60" " width="100%" />
 </p>
 
 <p align="center">
