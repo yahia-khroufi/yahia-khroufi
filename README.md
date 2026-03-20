@@ -1,17 +1,14 @@
 <div align="center">
-  <img src="https://img1.picmix.com/output/pic/original/7/8/9/0/13210987_f64e2.gif" width="100%" alt="Yahia Khroufi Professional Profile Header">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=200&section=header&text=Yahia%20Khroufi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20Master%20WISD&descSize=25&descAlignY=60" width="100%" alt="Yahia Khroufi Banner">
 </div>
 
 <br>
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Bonjour%2C%20je%20suis%20Yahia%20Khroufi;%20Chercheur%20en%20Data%20Science%20%26%20IA;Étudiant%20en%20Master%20WISD&font=Fira%20Code&center=true&width=500&height=50&color=F7F7F7&vCenter=true&size=24">
-  </p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Bonjour%2C%20je%20suis%20Yahia%20Khroufi;%20Chercheur%20en%20Data%20Science%20%26%20IA;Étudiant%20en%20Master%20WISD&font=Fira%20Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation">
 </div>
 
 <br>
-
 ---
 
 ## 👨‍🔬 **À PROPOS DE MOI & AXES DE RECHERCHE**
