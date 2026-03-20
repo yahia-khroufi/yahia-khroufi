@@ -1,46 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Researcher;Master+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
 </p>
-
----
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yahia-khroufi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Yahia%20Khroufi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yahiakhroufi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yahiakhroufi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-yahiakhroufi-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://yahiakhroufi.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="18"><br>
-      <a href="https://www.instagram.com/yahia_khroufi/" target="_blank">Instagram</a>
-    </td>
-    <td width="40"></td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="18"><br>
-      <strong>Phone</strong><br>
-      <code>+212 642047321</code>
-    </td>
-  </tr>
-</table>
-
-</div>
 ---
 ## 👨‍🔬 **ABOUT ME & RESEARCH INTERESTS**
 
@@ -132,4 +92,36 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
+---
+## 📫 **CONTACT**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yahiakhroufi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiakhroufi.github.io)
+
+<br><br>
+  <table>
+    <tr>
+      <td>
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
+      </td>
+      <td>
+        <strong></strong><a href="https://www.instagram.com/yahia_khroufi/">yahiakhroufi</a>
+      </td>
+      <td width="20"></td>
+      <td>
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
+      </td>
+      <td>
+        <strong></strong> <code>0642047321</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+</div>
 ---
