@@ -1,49 +1,38 @@
 <div align="center">
-  <h1>👋 Bonjour, je suis Yahia Khroufi</h1>
-  <h3>Chercheur en Data Science & Intelligence Artificielle</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Master's_Student-58A6FF?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Focus-ML%20%7C%20DL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Location-Fez%2C%20Morocco-28A745?style=for-the-badge&logo=google-maps&logoColor=white">
-  </p>
+  <img src="https://img1.picmix.com/output/pic/original/7/8/9/0/13210987_f64e2.gif" width="100%" alt="Yahia Khroufi Professional Profile Header">
 </div>
 
 <br>
 
 <div align="center">
   <p>
-    Étudiant en <b>Master Web Intelligence & Data Science (WISD)</b> avec un fort attrait pour la recherche et l'innovation. <br>
-    Je me spécialise dans la création de modèles de <b>Machine Learning</b> et <b>Deep Learning</b> pour résoudre des problèmes complexes. <br>
-    Toujours à la recherche de nouvelles opportunités de recherche et de collaborations académiques.
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋%20Bonjour%2C%20je%20suis%20Yahia%20Khroufi;%20Chercheur%20en%20Data%20Science%20%26%20IA;Étudiant%20en%20Master%20WISD&font=Fira%20Code&center=true&width=500&height=50&color=F7F7F7&vCenter=true&size=24">
   </p>
 </div>
 
 <br>
+
+---
+
+## 👨‍🔬 **À PROPOS DE MOI & AXES DE RECHERCHE**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="220">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" alt="Master">
+      <td width="70%" style="vertical-align: top;">
+        <p>
+          En tant qu'étudiant en <b>Master Web Intelligence & Data Science (WISD)</b>, je suis profondément passionné par l'application de l'IA et de l'apprentissage automatique à des problèmes réels. Mon objectif est de combler le fossé entre la recherche académique et l'innovation technologique pour créer des solutions d'intelligence Web avancées.
+        </p>
+        <p>
+          Toujours ouvert aux collaborations de recherche et aux opportunités de développement professionnel.
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://img.icons8.com/color/96/000000/university--v1.png" width="80" alt="University">
         <br>
         <strong>Master WISD</strong>
         <br>
-        <small>Université Sidi Mohammed<br>Ben Abdellah</small>
-      </td>
-      <td align="center" width="220">
-        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50" alt="Data Science">
-        <br>
-        <strong>Data Science</strong>
-        <br>
-        <small>Machine Learning &<br>Deep Learning</small>
-      </td>
-      <td align="center" width="220">
-        <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="50" alt="Research">
-        <br>
-        <strong>Axe de Recherche</strong>
-        <br>
-        <small>Web Intelligence &<br>Analyse Prédictive</small>
+        <small>Université Sidi Mohammed<br>Ben Abdellah, Fès</small>
       </td>
     </tr>
   </table>
@@ -51,99 +40,15 @@
 
 ---
 
-## 🎓 **PARCOURS ACADÉMIQUE**
+## 🚀 **CARTE DES COMPÉTENCES TECHNIQUES**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/2025--Présent-Master_WISD-2F4F4F?style=for-the-badge&logo=google-scholar&logoColor=white">
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td width="100" align="center">
-      <img src="https://img.icons8.com/color/96/000000/university--v1.png" width="70" alt="University">
-    </td>
-    <td>
-      <h3>🎓 Master en Web Intelligence & Data Science (WISD)</h3>
-      <p><strong>Université Sidi Mohamed Ben Abdellah</strong> | Fès, Maroc</p>
-      <p>
-        <img src="https://img.shields.io/badge/Mention-Excellence-success?style=flat-square">
-        <img src="https://img.shields.io/badge/Thèse-Deep%20Learning-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Diplomation_Prévue-2026-important?style=flat-square">
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 **EXPERTISE TECHNIQUE**
-
-<div align="center">
-  <p>Mes principaux outils pour le développement et la recherche.</p>
-  
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-        <br>Python
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
-        <br>Java
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="TensorFlow"/>
-        <br>TensorFlow
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch"/>
-        <br>PyTorch
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-Learn"/>
-        <br>Scikit-Learn
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
-        <br>Pandas
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="35"/>
-        <br><br>SQL
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
-        <br>Docker
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-        <br>Git
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
-        <br>Linux
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI"/>
-        <br>REST API
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
-        <br>JavaScript
-      </td>
-    </tr>
-  </table>
+  <img src="https://img1.picmix.com/output/pic/original/7/8/9/0/13210987_f64e2.gif" width="100%" alt="Integrated Skill Map with icons">
 </div>
 
 ---
 
-## 📊 **MÉTRIQUES GITHUB & RECHERCHE**
+## 📊 **TABLEAU DE BORD ANALYTICS**
 
 <div align="center">
   <table>
