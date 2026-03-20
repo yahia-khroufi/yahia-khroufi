@@ -1,8 +1,10 @@
+---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Researcher;Master+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
 </p>
 ---
-## 👨‍🔬 **ABOUT ME & RESEARCH INTERESTS**
+
+## 👨‍🔬 ABOUT ME & RESEARCH INTERESTS
 
 <div align="center">
   <table>
@@ -10,7 +12,7 @@
       <td width="70%" valign="top">
         <p>
           Master's student in <b>Web Intelligence & Data Science (WISD)</b>, passionate about Artificial Intelligence and Machine Learning. 
-          My goal is to bridge the gap between academic research and real-world applications by building intelligent and impactful solutions.
+          I aim to bridge the gap between academic research and real-world applications by developing intelligent and impactful solutions.
         </p>
         <p>
           Open to research collaborations and professional opportunities.
@@ -19,7 +21,7 @@
       <td width="30%" align="center">
         <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
         <strong>Master WISD</strong><br>
-        <small>USMBA - Fez</small>
+        <small>USMBA - Fez, Morocco</small>
       </td>
     </tr>
   </table>
@@ -27,7 +29,7 @@
 
 ---
 
-## 🚀 **TECHNICAL SKILLS**
+## 🚀 TECHNICAL SKILLS
 
 <div align="center">
 
@@ -55,7 +57,7 @@
 <img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-Learn
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn
 </td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
@@ -73,7 +75,7 @@
 <img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>REST API
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI (REST)
 </td>
 </tr>
 </table>
@@ -82,7 +84,7 @@
 
 ---
 
-## 📊 **GITHUB STATS**
+## 📊 GITHUB STATS
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true" width="80%" />
@@ -93,7 +95,8 @@
 </div>
 
 ---
-## 📫 **CONTACT**
+
+## 📫 CONTACT
 
 <div align="center">
 
@@ -103,25 +106,25 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiakhroufi.github.io)
 
 <br><br>
-  <table>
-    <tr>
-      <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
-      </td>
-      <td>
-        <strong></strong><a href="https://www.instagram.com/yahia_khroufi/">yahiakhroufi</a>
-      </td>
-      <td width="20"></td>
-      <td>
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
-      </td>
-      <td>
-        <strong></strong> <code>0642047321</code>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
+    </td>
+    <td>
+      <a href="https://www.instagram.com/yahia_khroufi/">@yahia_khroufi</a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
+    </td>
+    <td>
+      <code>+212 642047321</code>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-
-</div>
 ---
