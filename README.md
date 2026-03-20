@@ -119,7 +119,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
       </td>
       <td>
-        <strong></strong> <code>+212642047321</code>
+        <strong></strong><a href="https://www.instagram.com/yahia_khroufi/">yahiakhroufi</a>
       </td>
     </tr>
   </table>
