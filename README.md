@@ -34,14 +34,14 @@
         <p style="line-height:1.6;">
           From designing backend APIs to training AI models, I focus on complete end-to-end solutions. Open to research collaborations and professional opportunities.
         </p>
-      </td>
+       </td>
       <td width="35%" align="center">
         <img src="https://img.icons8.com/nolan/96/university.png" width="80" alt="University Icon"/><br>
         <strong>Master WISD</strong><br>
         <small>USMBA - Fez, Morocco</small>
-      </td>
-    </tr>
-  </table>
+       </td>
+     </tr>
+   </table>
 </div>
 
 ---
@@ -100,4 +100,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="14" style="vertical-align: middle;"> 
     <code>+212 6 42 04 73 21</code>
   </small>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
 </div>
