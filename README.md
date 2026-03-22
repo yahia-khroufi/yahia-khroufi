@@ -17,7 +17,10 @@
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" style="text-decoration: none;">
     <div style="background: linear-gradient(135deg, #0A66C2 0%, #58A6FF 100%); border-radius: 16px; padding: 16px 32px; display: inline-block; box-shadow: 0 4px 15px rgba(10,102,194,0.3);">
-      <span style="color: white; font-size: 18px; font-weight: 500;">🔗 yahia-khroufi.github.io/PortfolioWebsite</span>
+      <span style="color: white; font-size: 18px; font-weight: 500;">
+       <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" style="text-decoration: none;">
+         🔗 yahia-khroufi.github.io/PortfolioWebsite</span>
+         </a>
     </div>
   </a>
 </div>
