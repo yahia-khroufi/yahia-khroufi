@@ -5,10 +5,10 @@
          alt="Typing Animation: Hi, I'm Yahia Khroufi" />
   </a>
 
-  <!-- Professional portfolio badge – white background, clear text -->
+  <!-- Professional portfolio badge with colored background -->
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_🌐-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0A66C2&color=FFFFFF&labelColor=FFFFFF" 
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_🌐-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2" 
          alt="Visit my portfolio" />
   </a>
 </div>
