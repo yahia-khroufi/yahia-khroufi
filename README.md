@@ -1,10 +1,16 @@
 <div align="center">
+  <!-- Animated greeting -->
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
- <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" 
+         alt="Typing Animation: Hi, I'm Yahia Khroufi" />
   </a>
-</div>
-<div align="center">
-[![🌐 VISIT MY PROFESSIONAL PORTFOLIO 🌐](https://img.shields.io/badge/🌐_VISIT_MY_PROFESSIONAL_PORTFOLIO_🌐-FFFFFF?style=for-the-badge&logo=react&logoColor=0A66C2&color=FFFFFF&labelColor=FFFFFF&label=PORTFOLIO&logoWidth=30)](https://yahia-khroufi.github.io/PortfolioWebsite/)
+
+  <!-- Professional portfolio badge – white background, clear text -->
+  <br><br>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_🌐-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0A66C2&color=FFFFFF&labelColor=FFFFFF" 
+         alt="Visit my portfolio" />
+  </a>
 </div>
 ## 👨‍🔬 ABOUT ME
 
