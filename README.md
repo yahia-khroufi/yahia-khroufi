@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Explore+My+Professional+Portfolio+%E2%9C%A8;Data+Science+%7C+AI+%7C+Machine+Learning;Interactive+Projects+%26+Research&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=220&section=header&text=Yahia%20Khroufi&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=58&descSize=22&animation=fadeIn" />  </a>
 </div>
 <div align="center">
 
