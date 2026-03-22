@@ -1,21 +1,30 @@
 <p align="center">
-  <a href="[https://yahia-khroufi.github.io/PortfolioWebsite](https://yahia-khroufi.github.io/PortfolioWebsite/)" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8C%90+Discover+My+Portfolio;Yahia+Khroufi+-+AI+%26+Data+Science;Interactive+%26+Professional+Design&font=Fira+Code&center=true&width=700&height=50&color=58A6FF&vCenter=true&size=22" alt="Portfolio Banner" />
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Explore+My+Digital+Universe;Yahia+Khroufi+—+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" alt="Portfolio Title" />
   </a>
 </p>
 
 <p align="center">
-  <a href="[https://yahia-khroufi.github.io/PortfolioWebsite](https://yahia-khroufi.github.io/PortfolioWebsite/)" target="_blank">
-<img 
-    src="https://img.shields.io/badge/🌐_My_Portfolio-0A66C2?style=for-the-badge&logo=dev&logoColor=white" 
-    alt="My Portfolio" 
-    title="Visit My Portfolio" 
-    style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); transition: transform 0.2s;" 
-    onmouseover="this.style.transform='scale(1.05)'" 
-    onmouseout="this.style.transform='scale(1)'"
-/>  </a>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-121212?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F425F" alt="Portfolio Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:votre-email@exemple.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-121212?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=442B2B" alt="Contact Badge" />
+  </a>
 </p>
 
+<p align="center">
+  <kbd>
+    <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-Check_it_out-success?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" />
+    </a>
+  </kbd>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%" />
+</p>
 ---
 
 <p align="center">
