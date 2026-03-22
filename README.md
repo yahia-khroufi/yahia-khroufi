@@ -6,59 +6,30 @@
          alt="Yahia Khroufi - AI & Data Science Specialist" />
   </a>
 
-  <!-- Professional Portfolio Button -->
-  <br><br>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&color=0A66C2&labelColor=0A66C2" 
-         alt="Visit My Portfolio" />
-  </a>
-
-  <!-- URL Card with Gradient Background -->
+  <!-- Large Professional Portfolio Link -->
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #0A66C2 0%, #1F425F 100%); border-radius: 20px; padding: 24px 48px; margin: 20px auto; display: inline-block; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-      <div style="font-size: 28px; font-weight: bold; color: white; letter-spacing: 0.5px;">
-        🚀 yahia-khroufi.github.io/PortfolioWebsite 🚀
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px 60px; margin: 20px auto; display: inline-block; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
+      <div style="font-size: 32px; font-weight: bold; color: white; letter-spacing: 1px;">
+        🌐 yahia-khroufi.github.io/PortfolioWebsite
       </div>
-      <div style="font-size: 16px; color: rgba(255,255,255,0.9); margin-top: 12px;">
-        Click to explore • AI • Data Science • Web Intelligence • Machine Learning
+      <div style="font-size: 18px; color: rgba(255,255,255,0.9); margin-top: 15px;">
+        Click to explore my portfolio • AI • Data Science • Machine Learning
       </div>
     </div>
   </a>
 
-  <!-- Professional Info Card -->
+  <!-- Simple Professional Badge -->
   <br>
-  <div style="background: #0D1117; border-radius: 16px; padding: 20px 32px; max-width: 750px; margin: 16px auto; border: 1px solid #30363D;">
-    <div style="font-size: 13px; color: #8B949E; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px;">
-      📌 OFFICIAL PORTFOLIO
-    </div>
-    <div style="font-size: 22px; font-weight: 600;">
-      <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer" style="color: #58A6FF; text-decoration: none;">
-        yahia-khroufi.github.io/PortfolioWebsite
-      </a>
-    </div>
-    <div style="font-size: 14px; color: #8B949E; margin-top: 12px;">
-      ⬇️ Discover my projects, research, and professional expertise ⬇️
-    </div>
-  </div>
-
-  <!-- Additional Quick Access Buttons -->
-  <br>
-  <div>
-    <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/▶️_VIEW_LIVE_PORTFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <span>&nbsp;&nbsp;</span>
-    <a href="https://github.com/yahiakhroufi/PortfolioWebsite" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📁_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </div>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A66C2&color=0A66C2" 
+         alt="Portfolio" />
+  </a>
 
   <!-- Waving Footer -->
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
 </div>
-
 ---
 
 ## 👨‍💻 ABOUT ME
