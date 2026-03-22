@@ -1,7 +1,11 @@
 <div align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Explore+My+Digital+Universe;Yahia+Khroufi+—+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Portfolio Title" />
-  </a>
+<a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=🚀+Explore+My+Digital+Universe;Yahia+Khroufi+—+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" 
+    alt="Portfolio de Yahia Khroufi — AI & Data Science" 
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  />
+</a>
   <br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-121212?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F425F" alt="Portfolio Badge" />
