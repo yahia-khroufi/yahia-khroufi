@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+  <a href="[https://yahia-khroufi.github.io/PortfolioWebsite](https://yahia-khroufi.github.io/PortfolioWebsite/)" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8C%90+Discover+My+Portfolio;Yahia+Khroufi+-+AI+%26+Data+Science;Interactive+%26+Professional+Design&font=Fira+Code&center=true&width=700&height=50&color=58A6FF&vCenter=true&size=22" alt="Portfolio Banner" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+  <a href="[https://yahia-khroufi.github.io/PortfolioWebsite](https://yahia-khroufi.github.io/PortfolioWebsite/)" target="_blank">
 <img 
     src="https://img.shields.io/badge/🌐_My_Portfolio-0A66C2?style=for-the-badge&logo=dev&logoColor=white" 
     alt="My Portfolio" 
@@ -121,7 +121,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yahiakhroufi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiakhroufi.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://yahiakhroufi.github.io](https://yahia-khroufi.github.io/PortfolioWebsite/))
 
 <br><br>
 
