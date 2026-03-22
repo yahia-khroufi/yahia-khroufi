@@ -4,14 +4,7 @@
   </a>
 </div>
 <div align="center">
-
-<p align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://img.shields.io/badge/✨_EXPLORE_MY_PORTFOLIO_✨-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&label=PORTFOLIO&logoWidth=40" 
-         alt="Portfolio" 
-         style="width: 350px; height: auto;">
-  </a>
-</p>
+[![🌐 VISIT MY PROFESSIONAL PORTFOLIO 🌐](https://img.shields.io/badge/🌐_VISIT_MY_PROFESSIONAL_PORTFOLIO_🌐-FFFFFF?style=for-the-badge&logo=react&logoColor=0A66C2&color=FFFFFF&labelColor=FFFFFF&label=PORTFOLIO&logoWidth=30)](https://yahia-khroufi.github.io/PortfolioWebsite/)
 </div>
 ## 👨‍🔬 ABOUT ME
 
