@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000" 
        alt="Typing Animation: Hi, I'm Yahia Khroufi" />
 </a>
-
 <!-- Portfolio badge -->
 <br><br>
 <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
@@ -29,9 +28,11 @@
   " 
   onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 8px 25px rgba(10,102,194,0.45)'" 
   onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(10,102,194,0.35)'">
-    <span style="color: white; font-size: 18px;">
+   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+      <span style="color: white; font-size: 18px;">
       🔗 <strong>yahia-khroufi.github.io/PortfolioWebsite</strong>
     </span>
+   </a>
   </div>
 </a>
 
