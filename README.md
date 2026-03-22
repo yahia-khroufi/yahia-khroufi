@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=220&section=header&text=Yahia%20Khroufi&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=58&descSize=22&animation=fadeIn" />  </a>
+ <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
+  </a>
 </div>
 <div align="center">
 
