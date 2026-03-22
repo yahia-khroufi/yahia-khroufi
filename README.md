@@ -3,8 +3,6 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
   </a>
 </div>
-<div align="center">
-
 <p align="center">
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/✨_EXPLORE_MY_PORTFOLIO_✨-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&label=PORTFOLIO&logoWidth=40" 
@@ -12,6 +10,8 @@
          style="width: 350px; height: auto;">
   </a>
 </p>
+<div align="center">
+
 ## 👨‍🔬 ABOUT ME
 
 <div align="center">
