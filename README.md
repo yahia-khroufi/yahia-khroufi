@@ -1,30 +1,37 @@
 <div align="center">
-  <!-- Animated greeting with portfolio link -->
+
+  <!-- Animated typing greeting -->
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000" 
          alt="Typing Animation: Hi, I'm Yahia Khroufi" />
   </a>
 
-  <!-- Professional portfolio badge with colored background - ENLARGED -->
+  <!-- Professional portfolio badge -->
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://img.shields.io/badge/✨_VISIT_MY_PROFESSIONAL_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2&logoWidth=35" 
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=react&logoColor=white" 
          alt="Visit my portfolio" 
          style="transform: scale(1.1);" />
   </a>
-  
-  <!-- Optional: Large clickable URL card -->
+
+  <!-- Large clickable gradient card -->
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #0A66C2 0%, #58A6FF 100%); border-radius: 16px; padding: 16px 32px; display: inline-block; box-shadow: 0 4px 15px rgba(10,102,194,0.3);">
+    <div style="
+      background: linear-gradient(135deg, #0A66C2 0%, #58A6FF 100%);
+      border-radius: 16px;
+      padding: 16px 32px;
+      display: inline-block;
+      box-shadow: 0 4px 15px rgba(10,102,194,0.3);
+      transition: transform 0.2s ease-in-out;
+    " onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       <span style="color: white; font-size: 18px; font-weight: 500;">
-       <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" style="text-decoration: none;">
-         🔗 yahia-khroufi.github.io/PortfolioWebsite</span>
-         </a>
+        🔗 <strong>yahia-khroufi.github.io/PortfolioWebsite</strong>
+      </span>
     </div>
   </a>
-</div>
 
+</div>
 ---
 
 ## 👨‍🔬 ABOUT ME
