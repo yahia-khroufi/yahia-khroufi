@@ -1,184 +1,139 @@
 <div align="center">
-
-  <!-- Header Typing Animation -->
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com/?lines=✨+Yahia+Khroufi+✨;AI+%26+Data+Science+Specialist;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=28&pause=1000" 
-         alt="Yahia Khroufi - AI & Data Science Specialist" />
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58A6FF&height=200&section=header&text=Yahia%20Khroufi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=58&descSize=20&animation=fadeIn" />
   </a>
-
-  <!-- Large Professional Portfolio Link -->
-  <br><br>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px 60px; margin: 20px auto; display: inline-block; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
-      <div style="font-size: 32px; font-weight: bold; color: white; letter-spacing: 1px;">
-        🌐 yahia-khroufi.github.io/PortfolioWebsite
-      </div>
-      <div style="font-size: 18px; color: rgba(255,255,255,0.9); margin-top: 15px;">
-        Click to explore my portfolio • AI • Data Science • Machine Learning
-      </div>
-    </div>
-  </a>
-
-  <!-- Simple Professional Badge -->
-  <br>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A66C2&color=0A66C2" 
-         alt="Portfolio" />
-  </a>
-
-  <!-- Waving Footer -->
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
 </div>
----
-
-## 👨‍💻 ABOUT ME
 
 <div align="center">
-  <table width="90%">
-     <tr>
-      <td width="65%" valign="top">
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+Explore+My+Professional+Portfolio+✨;Data+Science+%7C+AI+%7C+Machine+Learning;Interactive+Projects+%26+Research&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
+  </a>
+</div>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
+</p>
+## 👨‍🔬 ABOUT ME & RESEARCH INTERESTS
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%" valign="top">
         <p>
-          🎓 <strong>Master's student in Web Intelligence & Data Science (WISD)</strong> at USMBA - Fez, Morocco
+          Master's student in <b>Web Intelligence & Data Science (WISD)</b>, passionate about Artificial Intelligence and Machine Learning. 
+          I aim to bridge the gap between academic research and real-world applications by developing intelligent and impactful solutions.
         </p>
         <p>
-          🤖 Passionate about <strong>Artificial Intelligence, Machine Learning, and Intelligent Systems</strong>
+          Open to research collaborations and professional opportunities.
         </p>
-        <p>
-          💡 Bridging academic research with real-world applications to build scalable and impactful solutions
-        </p>
-        <p>
-          🤝 Open to <strong>research collaborations, internships, and professional opportunities</strong>
-        </p>
-       </td>
-      <td width="35%" align="center">
-        <img src="https://img.icons8.com/nolan/96/university.png" width="80" alt="University"/><br>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
         <strong>Master WISD</strong><br>
         <small>USMBA - Fez, Morocco</small>
-       </td>
-     </tr>
-   </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+## 🚀 TECHNICAL SKILLS
 
 <div align="center">
-  <p><strong>💻 Programming & Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,mysql,postgres&perline=6" />
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/><br>SQL
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI (REST)
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true" width="80%" />
   
   <br><br>
-  
-  <p><strong>🤖 AI, ML & DevOps</strong></p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,git,linux&perline=6" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 📫 CONTACT
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yahiakhroufi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yahiakhroufi.github.io)
+
+<br><br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20">
+    </td>
+    <td>
+      <a href="https://www.instagram.com/yahia_khroufi/">@yahia_khroufi</a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
+    </td>
+    <td>
+      <code>+212 642047321</code>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
-
-## 📫 CONNECT WITH ME
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yahia-khroufi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yahiakhroufi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yahiakhroufi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <small>
-    📷 <a href="https://www.instagram.com/yahia_khroufi/">@yahia_khroufi</a>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    📞 <code>+212 6 42 04 73 21</code>
-  </small>
-</div>
-
----
-
-<div align="center">
-  <i>⚡ Turning data into intelligence — one model at a time.</i>
-</div>
----
-
-## 🛠️ TECHNICAL EXPERTISE
-
-<div align="center">
-  <p><strong>Languages & Databases</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,php,js,mysql,postgres&perline=6" />
-  </a>
-  <br><br>
-  <p><strong>Data Science & DevOps</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,git,linux&perline=6" />
-  </a>
-</div>
-
----
-
-## 📈 GITHUB ACTIVITY
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yahia-khroufi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yahiakhroufi@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/yahiakhroufi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <small>
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="14" style="vertical-align: middle;"> 
-    <a href="https://www.instagram.com/yahia_khroufi/" style="color: inherit; text-decoration: none;" target="_blank" rel="noopener noreferrer">@yahia_khroufi</a>
-    &nbsp;&nbsp; | &nbsp;&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="14" style="vertical-align: middle;"> 
-    <code>+212 6 42 04 73 21</code>
-  </small>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
-</div>
