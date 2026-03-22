@@ -1,36 +1,15 @@
 <div align="center">
-  <!-- Banner animé -->
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Explore+My+Professional+Portfolio+%E2%9C%A8;Data+Science+%7C+AI+%7C+Machine+Learning;Interactive+Projects+%26+Research&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
   </a>
-
-  <br/>
-
-  <!-- Titres -->
-  <h1>👋 Hi, I'm Yahia Khroufi</h1>
-  <h3>Back-End Developer | Data Science | AI Enthusiast</h3>
-
-  <!-- Images de profil -->
-  <div>
-    <img src="assets/images/profil-round.png" alt="Profil 1" width="80" style="border-radius:50%; margin: 0 5px; border:2px solid #58A6FF;" />
-    <img src="assets/images/profil-round1.png" alt="Profil 2" width="80" style="border-radius:50%; margin: 0 5px; border:2px solid #58A6FF;" />
-    <img src="assets/images/profil-round2.png" alt="Profil 3" width="80" style="border-radius:50%; margin: 0 5px; border:2px solid #58A6FF;" />
-  </div>
-
-  <br/>
-
-  <!-- Bouton Portfolio -->
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
-  </a>
 </div>
----
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
-</p>
+[![Click here to view my portfolio](https://img.shields.io/badge/Click_here_to_view_my_portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-khroufi.github.io/PortfolioWebsite/)
 
-## 👨‍🔬 ABOUT ME & RESEARCH INTERESTS
+</div>?
+
+## 👨‍🔬 ABOUT ME
 
 <div align="center">
   <table>
