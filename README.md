@@ -1,15 +1,54 @@
 <div align="center">
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=220&section=header&text=Yahia%20Khroufi&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=58&descSize=22&animation=fadeIn" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Explore+My+Professional+Portfolio+%E2%9C%A8;Data+Science+%7C+AI+%7C+Machine+Learning;Interactive+Projects+%26+Research&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
   </a>
 </div>
+<div align="center">
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer" 
+     style="
+        display:inline-block;
+        background: linear-gradient(135deg, #0D1117, #1A2A4A, #58A6FF);
+        color: #ffffff;
+        padding: 50px 80px;
+        border-radius: 25px;
+        font-size: 38px;
+        font-weight: 700;
+        font-family: 'Fira Code', monospace;
+        text-decoration: none;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+        transition: all 0.4s ease;
+        position: relative;
+        overflow: hidden;
+     "
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.5)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
+  >
+    Click here to view my portfolio
+    <span style="
+        content:'';
+        position:absolute;
+        top:0;
+        left:-75%;
+        width:50%;
+        height:100%;
+        background:rgba(255,255,255,0.15);
+        transform:skewX(-25deg);
+        transition: all 0.7s ease;
+     " class="shine"></span>
+  </a>
+</div>
 
+<script>
+  // Effet de "shine" animé
+  const btn = document.querySelector('a span.shine');
+  const link = btn.parentElement;
+  link.addEventListener('mouseover', () => {
+      btn.style.left = '125%';
+  });
+  link.addEventListener('mouseout', () => {
+      btn.style.left = '-75%';
+  });
+</script>
 ---
 
 <p align="center">
