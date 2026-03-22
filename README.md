@@ -7,7 +7,7 @@
 
 [![Click here to view my portfolio](https://img.shields.io/badge/Click_here_to_view_my_portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-khroufi.github.io/PortfolioWebsite/)
 
-</div>?
+</div>
 
 ## 👨‍🔬 ABOUT ME
 
