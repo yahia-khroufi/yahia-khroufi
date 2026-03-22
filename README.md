@@ -1,22 +1,19 @@
 <div align="center">
-<a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=🚀+Explore+My+Digital+Universe;Yahia+Khroufi+—+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" 
-    alt="Portfolio de Yahia Khroufi — AI & Data Science" 
-    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
-  />
-</a>
-  <br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Explore+My+Digital+Universe;Yahia+Khroufi+-+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Portfolio Title" />
+  </a>
+  
+  <br><br> <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-121212?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F425F" alt="Portfolio Badge" />
   </a>
-  <a href="mailto:yahiakhroufi@gmail.com">
+  &nbsp;&nbsp; <a href="mailto:yahiakhroufi@gmail.com">
     <img src="https://img.shields.io/badge/CONTACT_ME-121212?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=442B2B" alt="Contact Badge" />
   </a>
+  
   <br><br>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%" />
 </div>
-
 ## 👨‍💻 ABOUT ME & RESEARCH INTERESTS
 
 <div align="center">
