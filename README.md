@@ -1,12 +1,16 @@
 <div align="center">
+  <h1>👋 Hi, I'm Yahia Khroufi</h1>
+  <h3>Back-End Developer | Data Science | AI Enthusiast</h3>
+  
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Explore+My+Professional+Portfolio+%E2%9C%A8;Data+Science+%7C+AI+%7C+Machine+Learning;Interactive+Projects+%26+Research&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Explore+My+Professional+Portfolio+%E2%9C%A8;Interactive+Projects+%26+Research;Responsive+Design+%7C+Modern+UI&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
   </a>
-</div>
-<div align="center">
 
-[![Click here to view my portfolio](https://img.shields.io/badge/Click_here_to_view_my_portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-khroufi.github.io/PortfolioWebsite/)
+  <br/>
 
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
+  </a>
 </div>
 
 ---
