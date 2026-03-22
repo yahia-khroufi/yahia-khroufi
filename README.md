@@ -5,8 +5,7 @@
 </div>
 <div align="center">
 
-[![Click here to view my portfolio](https://img.shields.io/badge/Click_here_to_view_my_portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-khroufi.github.io/PortfolioWebsite/)
-
+[![Click here to view my portfolio](https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO_🚀-EFF3F6?style=for-the-badge&logo=google-chrome&logoColor=0A66C2&color=EFF3F6&labelColor=EFF3F6)](https://yahia-khroufi.github.io/PortfolioWebsite/)
 </div>
 
 ## 👨‍🔬 ABOUT ME
