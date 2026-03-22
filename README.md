@@ -1,4 +1,17 @@
+<p align="center">
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%8C%90+Discover+My+Portfolio;Yahia+Khroufi+-+AI+%26+Data+Science;Interactive+%26+Professional+Design&font=Fira+Code&center=true&width=700&height=50&color=58A6FF&vCenter=true&size=22" alt="Portfolio Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&color=0A66C2" alt="Portfolio Link" />
+  </a>
+</p>
+
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
 </p>
@@ -16,12 +29,12 @@
         <p>
           Open to research collaborations and professional opportunities.
         </p>
-      </td>
+       </td>
       <td width="30%" align="center">
         <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
         <strong>Master WISD</strong><br>
         <small>USMBA - Fez, Morocco</small>
-      </td>
+       </td>
     </tr>
   </table>
 </div>
@@ -114,7 +127,7 @@
     <td>
       <a href="https://www.instagram.com/yahia_khroufi/">@yahia_khroufi</a>
     </td>
-    <td width="20"></td>
+    <td width="20"> </td>
     <td>
       <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20">
     </td>
