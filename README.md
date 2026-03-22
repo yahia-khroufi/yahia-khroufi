@@ -1,35 +1,42 @@
 <div align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Explore+My+Digital+Universe;Yahia+Khroufi+-+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Portfolio Title" />
+
+  <!-- Header Typing Animation -->
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Explore+My+Digital+Universe;Yahia+Khroufi+-+AI+%26+Data+Science;Building+Intelligent+Solutions&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=28"
+         alt="Portfolio de Yahia Khroufi — AI & Data Science"
+         style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
   </a>
-  
-  <br><br> <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-121212?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F425F" alt="Portfolio Badge" />
+
+  <!-- Portfolio Badge -->
+  <br>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-121212?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F425F"
+         alt="Portfolio Badge" />
   </a>
-  &nbsp;&nbsp; <a href="mailto:yahiakhroufi@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT_ME-121212?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=442B2B" alt="Contact Badge" />
-  </a>
-  
+
+  <!-- Waving Footer -->
   <br><br>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%" />
 </div>
+
+---
+
 ## 👨‍💻 ABOUT ME & RESEARCH INTERESTS
 
 <div align="center">
-  <table>
+  <table width="90%">
     <tr>
-      <td width="70%" valign="top">
-        <p>
-          I am a Master's student in <b>Web Intelligence & Data Science (WISD)</b> with a strong foundation in Backend Development. 
-          My goal is to bridge the gap between academic research and real-world software by developing robust, intelligent systems.
+      <td width="65%" valign="top">
+        <p style="line-height:1.6;">
+          I am a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at USMBA, Fez, with a strong background in Backend Development. 
+          My mission is to turn academic research into real-world software by building intelligent, scalable, and impactful systems.
         </p>
-        <p>
-          From architecting backend APIs to training machine learning models, I am passionate about building complete, scalable, and impactful solutions. Open to research collaborations and professional opportunities.
+        <p style="line-height:1.6;">
+          From designing backend APIs to training AI models, I focus on complete end-to-end solutions. Open to research collaborations and professional opportunities.
         </p>
       </td>
-      <td width="30%" align="center">
-        <img src="https://img.icons8.com/nolan/96/university.png" width="80" alt="University"><br>
+      <td width="35%" align="center">
+        <img src="https://img.icons8.com/nolan/96/university.png" width="80" alt="University Icon"/><br>
         <strong>Master WISD</strong><br>
         <small>USMBA - Fez, Morocco</small>
       </td>
@@ -69,18 +76,28 @@
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yahia-khroufi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yahiakhroufi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yahiakhroufi"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yahia-khroufi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yahiakhroufi@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/yahiakhroufi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <small>
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="14" style="vertical-align: middle;"> <a href="https://www.instagram.com/yahia_khroufi/" style="color: inherit; text-decoration: none;">@yahia_khroufi</a>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="14" style="vertical-align: middle;"> 
+    <a href="https://www.instagram.com/yahia_khroufi/" style="color: inherit; text-decoration: none;" target="_blank" rel="noopener noreferrer">@yahia_khroufi</a>
     &nbsp;&nbsp; | &nbsp;&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="14" style="vertical-align: middle;"> <code>+212 6 42 04 73 21</code>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="14" style="vertical-align: middle;"> 
+    <code>+212 6 42 04 73 21</code>
   </small>
 </div>
