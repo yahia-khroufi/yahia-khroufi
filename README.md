@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Yahia Khroufi</h1>
-  <h3>Back-End Developer | Data Science | AI Enthusiast</h3>
+  <h3>Data Science | AI Enthusiast</h3>
   
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Explore+My+Professional+Portfolio+%E2%9C%A8;Interactive+Projects+%26+Research;Responsive+Design+%7C+Modern+UI&font=Fira+Code&center=true&width=800&height=55&color=58A6FF&vCenter=true&size=22&pause=1000" alt="Portfolio Banner" />
