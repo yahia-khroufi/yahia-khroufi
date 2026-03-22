@@ -1,21 +1,33 @@
 <div align="center">
-  <!-- Animated greeting -->
+  <!-- Animated greeting with portfolio link -->
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" 
+    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000" 
          alt="Typing Animation: Hi, I'm Yahia Khroufi" />
   </a>
 
-  <!-- Professional portfolio badge with colored background -->
+  <!-- Professional portfolio badge with colored background - ENLARGED -->
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_🌐-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2" 
-         alt="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PROFESSIONAL_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2&logoWidth=35" 
+         alt="Visit my portfolio" 
+         style="transform: scale(1.1);" />
+  </a>
+  
+  <!-- Optional: Large clickable URL card -->
+  <br><br>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #0A66C2 0%, #58A6FF 100%); border-radius: 16px; padding: 16px 32px; display: inline-block; box-shadow: 0 4px 15px rgba(10,102,194,0.3);">
+      <span style="color: white; font-size: 18px; font-weight: 500;">🔗 yahia-khroufi.github.io/PortfolioWebsite</span>
+    </div>
   </a>
 </div>
+
+---
+
 ## 👨‍🔬 ABOUT ME
 
 <div align="center">
-  <table>
+  <table width="90%">
     <tr>
       <td width="70%" valign="top">
         <p>
@@ -32,7 +44,7 @@
         <small>USMBA - Fez, Morocco</small>
       </td>
     </tr>
-  </table>
+   </table>
 </div>
 
 ---
@@ -81,7 +93,7 @@
   <a href="https://www.linkedin.com/in/yahia-khroufi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yahiakhroufi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/yahiakhroufi"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <br><br>
   <table>
     <tr>
@@ -92,4 +104,10 @@
       <td><code>+212 6 42 04 73 21</code></td>
     </tr>
   </table>
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ Turning data into intelligence — one model at a time.</i>
 </div>
