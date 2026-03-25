@@ -1,59 +1,35 @@
----
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Engineer&font=Fira+Code&center=false&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000)](https://yahia-khroufi.github.io/PortfolioWebsite)
-
-<a href="https://yahia-khroufi.github.io/PortfolioWebsite"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
----
-
-## 👨‍🔬 ABOUT ME
-
 <div align="center">
-<table width="90%" style="border-spacing: 20px;">
+  <!-- Animated greeting -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000" 
+       alt="Typing Animation" />
+
+  <!-- PROFESSIONAL PORTFOLIO BUTTON - ENHANCED VISIBILITY -->
+  <br><br>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2&logoWidth=30" 
+         alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+<table align="center">
   <tr>
-    <td width="70%" valign="top">
-      <p>
-        Master's student in <b>Web Intelligence & Data Science (WISD)</b>, passionate about Artificial Intelligence and Machine Learning. 
-        I aim to bridge the gap between academic research and real-world applications by developing intelligent and impactful solutions.
-      </p>
-      <p>
-        Open to research collaborations and professional opportunities.
-      </p>
+    <td width="65%">
+      🎓 Master's student in <b>Web Intelligence & Data Science (WISD)</b> at USMBA - Fez, Morocco<br><br>
+      🤖 Passionate about <b>Artificial Intelligence, Machine Learning</b>, and building intelligent systems<br><br>
+      💡 I bridge academic research with real-world applications to create scalable, impactful solutions<br><br>
+      🤝 Open to <b>research collaborations, internships, and professional opportunities</b>
     </td>
-    <td width="30%" align="center">
-      <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
-      <strong>Master WISD</strong><br>
+    <td width="35%" align="center">
+      <img src="https://img.icons8.com/color/96/university.png" width="80"><br>
+      <b>Master WISD</b><br>
       <small>USMBA - Fez, Morocco</small>
     </td>
   </tr>
 </table>
-</div>
-
----
-
-## 🚀 TECHNICAL SKILLS
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25"/><br>SQL</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br>PyTorch</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br>Scikit-learn</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
-  </tr>
-</table>
-</div>
 
 ---
 
