@@ -7,7 +7,7 @@
 ---
 ## 👨‍🔬 ABOUT ME
 
-<div align="center">
+<div >
 <table width="90%" style="border-spacing: 20px;">
   <tr>
     <td width="70%" valign="top">
@@ -32,7 +32,7 @@
 
 ## 🚀 TECHNICAL SKILLS
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
@@ -70,7 +70,7 @@
 
 ## 🌐 CONNECT WITH ME
 
-<div align="center">
+<div >
 <a href="https://www.linkedin.com/in/yahia-khroufi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yahiakhroufi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/yahiakhroufi"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
