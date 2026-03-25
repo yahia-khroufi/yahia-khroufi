@@ -40,11 +40,55 @@
 
 <div align="center">
 
-| **Core Languages** | **AI & Data Science** | **DevOps & Infrastructure** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,java,js,r" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql" /> | <img src="https://skillicons.dev/icons?i=docker,git,linux,fastapi" /> |
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/><br>SQL
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI (REST)
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
