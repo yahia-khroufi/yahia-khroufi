@@ -5,83 +5,92 @@
 </a>
 
 ---
+## 👨‍🔬 ABOUT ME
 
-## About Me
-
-I am a Master's student in **Web Intelligence & Data Science (WISD)** at USMBA – Fez, Morocco, with a strong focus on Artificial Intelligence and Machine Learning. My work sits at the intersection of academic research and real-world engineering — building intelligent systems that are both rigorous and impactful.
-
-I am actively open to **research collaborations**, **internships**, and **professional opportunities** in Data Science, AI, and software engineering.
-
----
-
-## Education
-
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| 🎓 M.Sc. Web Intelligence & Data Science | USMBA, Fez – Morocco | 2023 – Present |
-
----
-
-## Technical Skills
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=postman&logoColor=white)
+<div align="center">
+<table width="90%" style="border-spacing: 20px;">
+  <tr>
+    <td width="70%" valign="top">
+      <p>
+        Master's student in <b>Web Intelligence & Data Science (WISD)</b>, passionate about Artificial Intelligence and Machine Learning. 
+        I aim to bridge the gap between academic research and real-world applications by developing intelligent and impactful solutions.
+      </p>
+      <p>
+        Open to research collaborations and professional opportunities.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
+      <strong>Master WISD</strong><br>
+      <small>USMBA - Fez, Morocco</small>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## GitHub Statistics
+## 🚀 TECHNICAL SKILLS
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&theme=radical&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=react-dark&hide_border=true&bg_color=0D1117" width="98%" alt="Activity Graph"/>
-</p>
-
----
-
-## Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yahia-khroufi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yahiakhroufi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/yahiakhroufi">
-    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
-| Channel | Details |
-|---------|---------|
-| 📧 Email | yahiakhroufi@gmail.com |
-| 📱 Phone | +212 6 42 04 73 21 |
-| 📸 Instagram | @yahia_khroufi |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center" width="120"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25"/><br>SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br>PyTorch</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
+  </tr>
+</table>
+</div>
 
 ---
 
-<p align="center">
-  <i>Turning data into intelligence — one model at a time.</i>
-</p>
+## 📊 GITHUB STATS
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&theme=radical&hide_border=true&show_icons=true" width="48%" />
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+<a href="https://www.linkedin.com/in/yahia-khroufi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yahiakhroufi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/yahiakhroufi"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://yahia-khroufi.github.io/PortfolioWebsite"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<br><br>
+<table>
+<tr>
+<td><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="18"></td>
+<td><a href="https://www.instagram.com/yahia_khroufi/">@yahia_khroufi</a></td>
+<td width="30"></td>
+<td><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="18"></td>
+<td><code>+212 6 42 04 73 21</code></td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<i>⚡ Turning data into intelligence — one model at a time.</i>
+</div>
+
+
