@@ -1,14 +1,11 @@
-# 💼 Yahia Khroufi
 
+[![Hi, I'm Yahia Khroufi](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=false&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000)](https://yahia-khroufi.github.io/PortfolioWebsite)
+
+---
 <p align="left">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite">
     <img src="https://img.shields.io/badge/🔗 VIEW MY PROFESSIONAL PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
-
----
-
-[![Hi, I'm Yahia Khroufi](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=false&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000)](https://yahia-khroufi.github.io/PortfolioWebsite)
 
 ---
 
