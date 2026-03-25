@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Yahia%20Khroufi&fontSize=70&animation=fadeIn" alt="Yahia Khroufi" />
 </p>
 <p align="center">
   <a href="https://yahiakhroufi.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
