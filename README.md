@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Engineer;Master's+Student+%40+WISD&font=Fira+Code&center=false&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000)](https://yahia-khroufi.github.io/PortfolioWebsite)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Engineer&font=Fira+Code&center=false&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000)](https://yahia-khroufi.github.io/PortfolioWebsite)
 
 <a href="https://yahia-khroufi.github.io/PortfolioWebsite">
   <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
