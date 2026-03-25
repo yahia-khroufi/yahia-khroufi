@@ -6,7 +6,7 @@
   <!-- PROFESSIONAL PORTFOLIO BUTTON - ENHANCED VISIBILITY -->
   <br><br>
   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2&logoWidth=30" 
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=react&logoColor=white&color=0A66C2&labelColor=0A66C2" 
          alt="Portfolio" />
   </a>
 </div>
