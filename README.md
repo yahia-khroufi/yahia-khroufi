@@ -1,40 +1,37 @@
 <div align="center">
 
-<!-- Animated typing greeting -->
-<a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000" 
-       alt="Typing Animation: Hi, I'm Yahia Khroufi" />
-</a>
-<!-- Portfolio badge -->
-<br><br>
-<a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-  <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" 
-       alt="Visit my portfolio" 
-       style="transition: transform 0.2s;" 
-       onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
-</a>
+  <!-- Animated typing greeting -->
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000" 
+         alt="Typing Animation: Hi, I'm Yahia Khroufi" />
+  </a>
 
-<!-- Gradient card link -->
-<br><br>
-<a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" style="text-decoration: none;">
-  <div style="
-    background: linear-gradient(135deg, #0A66C2 0%, #58A6FF 100%);
-    border-radius: 20px;
-    padding: 20px 40px;
-    display: inline-block;
-    box-shadow: 0 6px 20px rgba(10,102,194,0.35);
-    font-weight: 600;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  " 
-  onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 8px 25px rgba(10,102,194,0.45)'" 
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(10,102,194,0.35)'">
-   <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank">
-      <span style="color: white; font-size: 18px;">
+  <!-- Portfolio badge -->
+  <br><br>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" 
+         alt="Visit my portfolio" />
+  </a>
+
+  <!-- Gradient link card -->
+  <br><br>
+  <a href="https://yahia-khroufi.github.io/PortfolioWebsite" target="_blank" rel="noopener" style="text-decoration: none;">
+    <div style="
+      background: linear-gradient(135deg, #0A66C2 0%, #58A6FF 100%);
+      border-radius: 20px;
+      padding: 20px 40px;
+      display: inline-block;
+      box-shadow: 0 6px 20px rgba(10,102,194,0.35);
+      font-weight: 600;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      color: white;
+      font-size: 18px;
+    " 
+    onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 8px 25px rgba(10,102,194,0.45)'" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 20px rgba(10,102,194,0.35)'">
       🔗 <strong>yahia-khroufi.github.io/PortfolioWebsite</strong>
-    </span>
-   </a>
-  </div>
-</a>
+    </div>
+  </a>
 
 </div>
 
