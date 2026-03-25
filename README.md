@@ -48,22 +48,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🌍 [ALLINTOURISM (Touriste 360)](https://github.com/yahiakhroufi)
-*A centralized digital platform for tourism services (Housing, Transport, Activities).*
-- **Tech:** Java, Python, REST APIs.
-
-### 🔄 [DATAFLOW](https://github.com/yahiakhroufi)
-*Desktop application for bidirectional conversion between XML and JSON formats.*
-- **Tech:** Java (Jakarta EE), JavaFX.
-
-### 🗣️ [Darija Translator](https://github.com/yahiakhroufi)
-*LLM-powered distributed system translating English text to Moroccan Darija.*
-- **Tech:** Jakarta EE, PHP, Browser Extensions.
-
----
-
 ## 📊 Performance Metrics
 
 <div align="center">
