@@ -1,4 +1,10 @@
-<div>
+<div align="center">
+
+# 🌐 PORTFOLIO
+
+[![Visit My Professional Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://yahia-khroufi.github.io/PortfolioWebsite)
+
+---
 
 <!-- Animated typing greeting -->
 [![Hi, I'm Yahia Khroufi](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Science+%26+AI+Enthusiast;Master's+Student+%40+WISD&font=Fira+Code&center=true&width=700&height=60&color=58A6FF&vCenter=true&size=24&pause=1000)](https://yahia-khroufi.github.io/PortfolioWebsite)
@@ -7,9 +13,9 @@
 ---
 ## 👨‍🔬 ABOUT ME
 
-<div >
+<div align="center">
 <table width="90%" style="border-spacing: 20px;">
-  <tr>
+   <tr>
     <td width="70%" valign="top">
       <p>
         Master's student in <b>Web Intelligence & Data Science (WISD)</b>, passionate about Artificial Intelligence and Machine Learning. 
@@ -18,13 +24,13 @@
       <p>
         Open to research collaborations and professional opportunities.
       </p>
-    </td>
+     </td>
     <td width="30%" align="center">
       <img src="https://img.icons8.com/color/96/university.png" width="80" alt="University"><br>
       <strong>Master WISD</strong><br>
       <small>USMBA - Fez, Morocco</small>
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 </div>
 
@@ -32,26 +38,26 @@
 
 ## 🚀 TECHNICAL SKILLS
 
-<div>
+<div align="center">
 <table>
-  <tr>
+   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
     <td align="center" width="120"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25"/><br>SQL</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br>PyTorch</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br>Scikit-learn</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
-  </tr>
+   </tr>
 </table>
 </div>
 
@@ -70,7 +76,7 @@
 
 ## 🌐 CONNECT WITH ME
 
-<div >
+<div align="center">
 <a href="https://www.linkedin.com/in/yahia-khroufi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yahiakhroufi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/yahiakhroufi"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
