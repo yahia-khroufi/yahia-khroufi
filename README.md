@@ -104,6 +104,5 @@
 ---
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"> <a href="https://www.instagram.com/yahia_khroufi/">@yahia_khroufi</a> &nbsp;&nbsp; 
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20"> <code>+212 642-047321</code>
 </p>
