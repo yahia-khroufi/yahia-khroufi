@@ -9,23 +9,50 @@
 </p>
  
 ---
-
 ## 👨‍🔬 Professional Overview
 
 <table border="0">
-  <tr>
-      <p>
-        I am a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at USMBA, specializing in <b>Artificial Intelligence</b> and <b>Advanced Data Analytics</b>.
-      </p>
-      <p>
-        My expertise lies in building intelligent systems that bridge academic research and industrial application. I focus on developing scalable, data-driven solutions with a "Tech for Good" mindset.
-      </p>
-      <p>
-        🔭 <b>Active Projects:</b> AI-driven translation and smart tourism platforms.<br>
-        🌱 <b>Learning:</b> Distributed Systems & LLM Fine-tuning.
-      </p>
-    </td>
-</td>  </tr>
+<tr>
+<td width="65%">
+
+<p>
+I am <b>Yahia Khroufi</b>, a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at 
+<b>USMBA – Fez, Morocco</b>, specializing in <b>Artificial Intelligence</b> and 
+<b>Data Engineering</b>.
+</p>
+
+<p>
+My work focuses on designing <b>scalable data pipelines</b>, developing 
+<b>AI-powered applications</b>, and building <b>intelligent data-driven systems</b> 
+that bridge academic research and real-world industry challenges.
+</p>
+
+<p>
+I am particularly interested in <b>Cloud Data Engineering</b>, 
+<b>Distributed Systems</b>, and <b>Large Language Model (LLM) technologies</b>, 
+with a strong commitment to building impactful solutions aligned with a 
+<b>"Tech for Good"</b> mindset.
+</p>
+
+<p>
+🔭 <b>Projects:</b> AI Translation Platform • Smart Tourism Intelligence System <br>
+🛠 <b>Tech Stack:</b> Azure (Data Factory, Synapse) • SQL • Python • Data Pipelines <br>
+🌱 <b>Currently Learning:</b> Distributed Systems • LLM Fine-tuning • Cloud Architecture
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+🎓 <b>MSc. WISD</b> <br>
+USMBA – Fez, Morocco <br><br>
+
+☁️ <b>Aspiring Data Engineer</b> <br>
+AI & Cloud Enthusiast
+
+</td>
+
+</tr>
 </table>
 
 ---
