@@ -14,26 +14,17 @@
 
 <table border="0">
   <tr>
-<p>
-  <b>Yahia Khroufi</b><br>
-  Master WISD Student | Aspiring Data Engineer
-</p>
-
-<p>
-  I am a <b>Master's student in Data Science (WISD)</b> at USMBA, specializing in 
-  <b>Artificial Intelligence</b> and <b>Data Engineering</b>.
-</p>
-
-<p>
-  I build scalable data pipelines and intelligent systems that bridge academic research 
-  and industrial applications, with a strong <b>"Tech for Good"</b> mindset.
-</p>
-
-<p>
-  🔭 <b>Projects:</b> AI Translation & Smart Tourism platforms.<br>
-  🛠 <b>Tech:</b> Azure (Data Factory, Synapse), SQL, Python.<br>
-  🌱 <b>Focus:</b> Distributed Systems & LLM Fine-tuning.
-</p>
+      <p>
+        I am a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at USMBA, specializing in <b>Artificial Intelligence</b> and <b>Advanced Data Analytics</b>.
+      </p>
+      <p>
+        My expertise lies in building intelligent systems that bridge academic research and industrial application. I focus on developing scalable, data-driven solutions with a "Tech for Good" mindset.
+      </p>
+      <p>
+        🔭 <b>Active Projects:</b> AI-driven translation and smart tourism platforms.<br>
+        🌱 <b>Learning:</b> Distributed Systems & LLM Fine-tuning.
+      </p>
+    </td>
 </td>  </tr>
 </table>
 
