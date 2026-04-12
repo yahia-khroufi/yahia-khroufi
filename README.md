@@ -9,52 +9,33 @@
 </p>
  
 ---
-## 👨‍🔬 Professional Overview
+
+## 👨‍🔬 Professional Profile
 
 <table border="0">
 <tr>
-<td width="65%">
+<td width="75%">
 
-<p>
-I am <b>Yahia Khroufi</b>, a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at 
-<b>USMBA – Fez, Morocco</b>, specializing in <b>Artificial Intelligence</b> and 
-<b>Data Engineering</b>.
-</p>
+**Yahia Khroufi** – Master's student in **Web Intelligence & Data Science (WISD)** at USMBA – Fez, Morocco.
 
-<p>
-My work focuses on designing <b>scalable data pipelines</b>, developing 
-<b>AI-powered applications</b>, and building <b>intelligent data-driven systems</b> 
-that bridge academic research and real-world industry challenges.
-</p>
+I specialize in **AI** and **Data Engineering**, building scalable data pipelines and intelligent systems that solve real-world problems.
 
-<p>
-I am particularly interested in <b>Cloud Data Engineering</b>, 
-<b>Distributed Systems</b>, and <b>Large Language Model (LLM) technologies</b>, 
-with a strong commitment to building impactful solutions aligned with a 
-<b>"Tech for Good"</b> mindset.
-</p>
+**Core focus:** Cloud Data Engineering (Azure) • Distributed Systems • LLM technologies
 
-<p>
-🔭 <b>Projects:</b> AI Translation Platform • Smart Tourism Intelligence System <br>
-🛠 <b>Tech Stack:</b> Azure (Data Factory, Synapse) • SQL • Python • Data Pipelines <br>
-🌱 <b>Currently Learning:</b> Distributed Systems • LLM Fine-tuning • Cloud Architecture
-</p>
+**Key projects:** AI Translation Platform • Smart Tourism Intelligence System
+
+**Tech stack:** Azure (Data Factory, Synapse) • SQL • Python
+
+📌 *Committed to building ethical, impactful tech.*
 
 </td>
+<td width="25%" align="center">
 
-<td width="35%" align="center">
-
-🎓 <b>MSc. WISD</b> <br>
-USMBA – Fez, Morocco <br><br>
-
-☁️ <b>Aspiring Data Engineer</b> <br>
-AI & Cloud Enthusiast
+⚙️<br>🔧<br>📊<br>🤖
 
 </td>
-
 </tr>
 </table>
-
 ---
 
 ## 🚀 Technical Expertise
