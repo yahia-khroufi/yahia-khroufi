@@ -14,23 +14,23 @@
 
 <table border="0">
   <tr>
-    <td width="65%" style="border: none;">
-      <p>
-        I am a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at USMBA, specializing in <b>Artificial Intelligence</b> and <b>Advanced Data Analytics</b>.
-      </p>
-      <p>
-        My expertise lies in building intelligent systems that bridge academic research and industrial application. I focus on developing scalable, data-driven solutions with a "Tech for Good" mindset.
-      </p>
-      <p>
-        🔭 <b>Active Projects:</b> AI-driven translation and smart tourism platforms.<br>
-        🌱 <b>Learning:</b> Distributed Systems & LLM Fine-tuning.
-      </p>
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://img.icons8.com/color/96/university.png" width="80"><br>
-      <b>MSc. WISD</b><br>
-      <small>USMBA - Fez, Morocco</small>
-    </td>
+<td>
+  <p>
+    I am <b>Yahia Khroufi</b>, a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at USMBA, 
+    specializing in <b>Artificial Intelligence</b> and <b>Data Engineering</b>.
+  </p>
+
+  <p>
+    I build scalable data pipelines and intelligent systems that bridge academic research 
+    and real-world applications, with a strong <b>"Tech for Good"</b> mindset.
+  </p>
+
+  <p>
+    🔭 <b>Projects:</b> AI Translation & Smart Tourism platforms.<br>
+    🛠 <b>Tech:</b> Azure (Data Factory, Synapse), SQL, Python.<br>
+    🌱 <b>Focus:</b> Distributed Systems & LLM Fine-tuning.
+  </p>
+</td>
   </tr>
 </table>
 
