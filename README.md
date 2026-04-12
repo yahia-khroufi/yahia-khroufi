@@ -9,7 +9,6 @@
 </p>
  
 ---
-
 ## 👨‍🔬 Professional Profile
 
 <table border="0">
@@ -18,7 +17,7 @@
 
 **Yahia Khroufi** – Master's student in **Web Intelligence & Data Science (WISD)** at USMBA – Fez, Morocco.
 
-I specialize in **AI** and **Data Engineering**, building scalable data pipelines and intelligent systems that solve real-world problems.
+I specialize in **AI & Data Engineering**, building scalable data pipelines and intelligent systems that solve real-world problems.
 
 **Core focus:** Cloud Data Engineering (Azure) • Distributed Systems • LLM technologies
 
@@ -26,12 +25,14 @@ I specialize in **AI** and **Data Engineering**, building scalable data pipeline
 
 **Tech stack:** Azure (Data Factory, Synapse) • SQL • Python
 
-📌 *Committed to building ethical, impactful tech.*
+*Committed to building ethical, impactful tech.*
 
 </td>
 <td width="25%" align="center">
 
-⚙️<br>🔧<br>📊<br>🤖
+<a href="https://www.usmba.ac.ma"><img src="https://img.shields.io/badge/USMBA-Fès-800020?style=for-the-badge&logo=university&logoColor=white"></a>
+<br>
+<a href="https://www.usmba.ac.ma"><img src="https://img.shields.io/badge/MSc-WISD-2E8B57?style=for-the-badge&logo=databricks&logoColor=white"></a>
 
 </td>
 </tr>
