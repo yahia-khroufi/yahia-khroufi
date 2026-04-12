@@ -14,24 +14,27 @@
 
 <table border="0">
   <tr>
-<td>
-  <p>
-    I am <b>Yahia Khroufi</b>, a <b>Master's student in Web Intelligence & Data Science (WISD)</b> at USMBA, 
-    specializing in <b>Artificial Intelligence</b> and <b>Data Engineering</b>.
-  </p>
+<p>
+  <b>Yahia Khroufi</b><br>
+  Master WISD Student | Aspiring Data Engineer
+</p>
 
-  <p>
-    I build scalable data pipelines and intelligent systems that bridge academic research 
-    and real-world applications, with a strong <b>"Tech for Good"</b> mindset.
-  </p>
+<p>
+  I am a <b>Master's student in Data Science (WISD)</b> at USMBA, specializing in 
+  <b>Artificial Intelligence</b> and <b>Data Engineering</b>.
+</p>
 
-  <p>
-    🔭 <b>Projects:</b> AI Translation & Smart Tourism platforms.<br>
-    🛠 <b>Tech:</b> Azure (Data Factory, Synapse), SQL, Python.<br>
-    🌱 <b>Focus:</b> Distributed Systems & LLM Fine-tuning.
-  </p>
-</td>
-  </tr>
+<p>
+  I build scalable data pipelines and intelligent systems that bridge academic research 
+  and industrial applications, with a strong <b>"Tech for Good"</b> mindset.
+</p>
+
+<p>
+  🔭 <b>Projects:</b> AI Translation & Smart Tourism platforms.<br>
+  🛠 <b>Tech:</b> Azure (Data Factory, Synapse), SQL, Python.<br>
+  🌱 <b>Focus:</b> Distributed Systems & LLM Fine-tuning.
+</p>
+</td>  </tr>
 </table>
 
 ---
