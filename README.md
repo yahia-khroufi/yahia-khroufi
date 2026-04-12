@@ -37,8 +37,8 @@ I specialize in **AI & Data Engineering**, building scalable data pipelines and 
 </td>
 </tr>
 </table>
----
 
+---
 ## 🚀 Technical Expertise
 
 <div align="center">
