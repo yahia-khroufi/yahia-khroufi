@@ -1,111 +1,36 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi,+I'm+Yahia+Khroufi;Data+Engineering+%26+AI+Enthusiast;Master's+Student+in+WISD&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=26" alt="Typing Animation" />
-<p align="center">
-</p>
-<p align="center">
-  <a href="https://yahia-khroufi.github.io/PortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yahia-khroufi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yahiakhroufi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
- 
+# 👋 Yahia Khroufi
+
+> Master's student in **Web Intelligence & Data Science (WISD)** at USMBA – Fez, Morocco
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahia-khroufi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yahiakhroufi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yahia.khroufi@usmba.ac.ma)
+
 ---
-## 👨‍🔬 Professional Profile
 
-<table border="0">
-<tr>
-<td width="75%">
-
-**Yahia Khroufi** – Master's student in **Web Intelligence & Data Science (WISD)** at USMBA – Fez, Morocco.
+## 🔧 About Me
 
 I specialize in **AI & Data Engineering**, building scalable data pipelines and intelligent systems that solve real-world problems.
 
-**Core focus:** Cloud Data Engineering (Azure) • Distributed Systems • LLM technologies
-
-**Key projects:** AI Translation Platform • Smart Tourism Intelligence System
-
-**Tech stack:** Azure (Data Factory, Synapse) • SQL • Python
-
-*Committed to building ethical, impactful tech.*
-
-</td>
-<td width="25%" align="center">
-
-<a href="https://www.usmba.ac.ma"><img src="https://img.shields.io/badge/USMBA-Fès-800020?style=for-the-badge&logo=university&logoColor=white"></a>
-<br>
-<a href="https://www.usmba.ac.ma"><img src="https://img.shields.io/badge/MSc-WISD-2E8B57?style=for-the-badge&logo=databricks&logoColor=white"></a>
-
-</td>
-</tr>
-</table>
-
----
-## 🚀 Technical Expertise
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/><br>SQL
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI (REST)
-</td>
-</tr>
-</table>
-
-</div>
-
+- ☁️ **Core focus:** Cloud Data Engineering (Azure) • Distributed Systems • LLMs
+- 🔭 **Projects:** AI Translation Platform • Smart Tourism Intelligence System
+- 🛠 **Tech stack:** Azure (Data Factory, Synapse) • SQL • Python
 
 ---
 
-## 📊 Performance Metrics
+## 📂 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiakhroufi&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yahiakhroufi&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yahiakhroufi&theme=react-dark&hide_border=true" width="97%" />
-</div>
+| Project | Description |
+|---------|-------------|
+| [AI Translation Platform](https://github.com/...) | Neural machine translation system with LLM integration |
+| [Smart Tourism Intelligence](https://github.com/...) | Data-driven recommendation system for travelers |
 
 ---
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20"> <code>+212 642-047321</code>
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahiakhroufi&show_icons=true&theme=dark&hide_title=true)
+
+---
+
+📍 *Fez, Morocco* | 💻 *Open to opportunities in Data Engineering & AI*
