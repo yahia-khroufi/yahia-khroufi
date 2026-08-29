@@ -27,7 +27,7 @@ An end-to-end Azure batch data engineering platform that ingests weather data fr
 
 **Stack:** Azure Data Factory · ADLS Gen2 · Azure Databricks · PySpark · Delta Lake · Azure SQL · Synapse Analytics · Power BI · Azure Monitor · Azure Key Vault · GitHub/VS Code/CI/CD
 
-[View Repository](https://github.com/yahia-khroufi/azure-weather-data-platform) *(planned repository)*
+[View Repository](https://github.com/yahia-khroufi/azure-weather-data-platform) 
 
 ---
 
