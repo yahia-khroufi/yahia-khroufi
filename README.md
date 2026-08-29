@@ -83,9 +83,4 @@ IoTFlow is a containerized platform for ingesting, streaming, processing, storin
 - Advanced Data Engineering
 - Azure Data Engineering
 
----
-
-## Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/yahia-khroufi/) · [Email](mailto:yahiakhroufi@gmail.com) · [View My CV](./assets/Yahia-Khroufi-CV.pdf)
 -->
