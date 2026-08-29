@@ -44,7 +44,7 @@ IoTFlow is a containerized platform for ingesting, streaming, processing, storin
 
 **Stack:** Python · Docker · Docker Compose · Apache NiFi · Apache Kafka · Apache Spark · Apache Airflow · Apache Cassandra · Streamlit
 
-[View Repository](https://github.com/yahia-khroufi/IoTFlow-Real-Time-Data-Engineering-Platform)
+[View Repository](https://github.com/yahia-khroufi/IoTFlow-Real-Time-Data-Engineering-Platform) · [Watch Demo](https://youtu.be/2abhzypWHvg)
 
 ---
 
@@ -70,10 +70,13 @@ IoTFlow is a containerized platform for ingesting, streaming, processing, storin
 
 ---
 
-## Certification
+## Certifications
 
-- IBM Data Engineering Professional Certificate
-
+- [IBM Data Engineering Professional Certificate](https://www.credly.com/badges/3a44aff6-50d9-40ec-a3b9-28c45a1f6d43/linked_in_profile) 
+- [Linux Commands & Shell Scripting Essentials V2](https://www.credly.com/badges/3b92a6c1-6b9b-460a-9c9c-13383fe83da3/linked_in_profile) 
+- [Databases and SQL for Data Science](https://www.credly.com/badges/18105e59-dc4f-4cf6-8aff-5e36bb072677/linked_in_profile) 
+- [Introduction to Git and GitHub](https://coursera.org/verify/7YPRHLG1ZWC) 
+  
 ---
 
 ## Currently Learning
