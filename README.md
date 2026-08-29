@@ -86,30 +86,5 @@ IoTFlow is a containerized platform for ingesting, streaming, processing, storin
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/yahia-khroufi/) · [Email](mailto:yahiakhroufi@gmail.com) · [View CV](./assets/Yahia-Khroufi-CV.pdf)
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yahia-khroufi&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="Yahia Khroufi's GitHub statistics">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahia-khroufi&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="Most-used languages on Yahia Khroufi's GitHub profile">
-</p>
-=======
-## Hi there 👋
-
-<!--
-**yahia-khroufi/yahia-khroufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[LinkedIn](https://www.linkedin.com/in/yahia-khroufi/) · [Email](mailto:yahiakhroufi@gmail.com) · [View My CV](./assets/Yahia-Khroufi-CV.pdf)
 -->
