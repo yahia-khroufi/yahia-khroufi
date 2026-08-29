@@ -5,10 +5,10 @@
 I build production-oriented data engineering systems across batch and real-time workloads—from ingestion and ETL/ELT to data lakes, processing, analytical serving, and reporting. My current focus is on cloud, big data, and dependable data platforms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View-34495E?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Yahia-Khroufi-CV.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yahia-khroufi)
 
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
+
+[![CV](https://img.shields.io/badge/CV-View-34495E?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Yahia-Khroufi-CV.pdf)
 </div>
 
 ---
