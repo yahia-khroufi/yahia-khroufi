@@ -4,7 +4,8 @@
 
 I build production-oriented data engineering systems across batch and real-time workloads—from ingestion and ETL/ELT to data lakes, processing, analytical serving, and reporting. My current focus is on cloud, big data, and dependable data platforms.
 
-[![  View CV  ](https://img.shields.io/badge/View_CV-34495E?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Yahia-Khroufi-CV.pdf)
+[![CV](https://img.shields.io/badge/CV-View-34495E?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Yahia-Khroufi-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi/)
 
 </div>
 
