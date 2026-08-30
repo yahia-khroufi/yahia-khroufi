@@ -6,6 +6,7 @@ I build production-oriented data engineering systems across batch and real-time 
 
 [![CV](https://img.shields.io/badge/CV-View-34495E?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Yahia-Khroufi-CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-khroufi/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yahiakhroufi@gmail.com)
 
 </div>
 
